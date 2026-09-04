@@ -65,13 +65,6 @@ folder exists and that it contains `erd.png`, `api-endpoint-plan.md`, and
 
 **Successful build:**
 
-<!--
-Replace this with a screenshot of your own green GitHub Actions run.
-In GitHub: Actions tab -> select the latest successful "Validate Repository
-Structure" run -> screenshot the green checkmark and step list -> save it
-as docs/ci-success.png -> then replace the line below with:
-![CI/CD successful build](docs/ci-success.png)
--->
 _Screenshot pending — add `docs/ci-success.png` once you have pushed this
 repository and the workflow has run successfully, then replace this note
 with `![CI/CD successful build](docs/ci-success.png)`._
